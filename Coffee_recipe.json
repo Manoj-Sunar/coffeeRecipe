@@ -1,0 +1,63 @@
+{
+    "receipe": [
+        {
+            "id": 1,
+            "coffee_name": "Espresso",
+            "Ingredients": {
+                "Ingredient1": "Freshly roasted coffee beans",
+                "Ingredient2": "Clean water"
+            },
+            "Equipment": {
+                "equip1": "Espresso machine",
+                "equip2": "Burr grinder",
+                "equip3": "Tamper",
+                "equip4": "Scale"
+            },
+            "Instructions": {
+                "step1": "Start by grinding your coffee beans. You'll want to use a burr grinder to achieve a consistent grind. A good starting point is to use 18-20 grams of coffee per shot. Preheat your espresso machine by running water through the group head and portafilter.",
+                "step2": "Preheat your espresso machine by running water through the group head and portafilter.",
+                "step3": "Once your machine is preheated, distribute the coffee grounds evenly in the portafilter. Use a tamper to apply even pressure and create a level bed of coffee.",
+                "step4": "Place the portafilter in the group head and start brewing immediately. You'll want to aim for a 1:2 ratio of coffee to water, so if you used 18 grams of coffee, aim for 36 grams of espresso in the cup.",
+                "step5": "As the espresso is brewing, watch for the crema to form on top. The crema should be thick, golden-brown, and have a tiger stripe pattern.",
+                "step6": "Once the shot is finished, taste the espresso immediately. A well-made espresso should have a balance of sweetness, acidity, and bitterness, with a smooth and velvety mouthfeel.",
+                "step7": "If the shot is too bitter, try adjusting the grind size to make it coarser. If it's too sour, make the grind finer.",
+                "step8": "Finally, clean the portafilter and group head to prepare for the next shot. Enjoy your delicious espresso!"
+            },
+
+            "Description":"Use freshly roasted coffee beans for the best flavor.Make sure to use filtered water to avoid any off-flavors from tap water.Always preheat your espresso machine and portafilter to ensure even extraction.Adjust the grind size and amount of coffee to get the desired taste.Clean your espresso machine regularly to avoid any buildup of coffee oils or residues that could affect the taste of your espresso"
+        },
+
+
+        {
+            "id": 2,
+            "coffee_name": "Dopio",
+            "Ingredients": {
+                "Ingredient1": "2 shots of freshly brewed espresso",
+                "Ingredient2": "Fresh, cold water",
+                "Ingredient3":"Espresso machine",
+                "Ingredient4":"Espresso cups"
+                
+            },
+            "Equipment": {
+                "equip1": "Espresso machine and Double basket portafilter",
+                "equip2": "Burr grinder",
+                "equip3": "Tamper",
+                "equip4": "Scale",
+                "equip5":"Shot glass or espresso cups"
+
+            },
+            "Instructions": {
+                "step1": "Begin by heating your espresso machine and grinding the beans to a fine consistency",
+                "step2": "Tamp the grounds down into the portafilter, making sure it's evenly distributed and compact.",
+                "step3": "Lock the portafilter into the machine and place your espresso cup or shot glasses underneath.",
+                "step4": "Run water through the machine until it reaches the appropriate temperature.",
+                "step5": "Press the button to start brewing your Doppio, letting it run for approximately 20-30 seconds. The resulting shot should be around 2 ounces.",
+                "step6": "If desired, you can steam some milk and add it to the Doppio for a creamy finish.",
+             
+               
+            },
+
+            "Description":"Doppio is a double shot of espresso, which means it contains twice the amount of coffee compared to a regular shot of espresso. Here's a recipe for making the perfect Doppio coffee: Use high-quality coffee beans for the best flavor.Ensure the water is fresh and cold to prevent any unwanted flavors from the water. Experiment with the grind size and tamping pressure to find the perfect balance for your taste."
+        }   
+    ]
+}
